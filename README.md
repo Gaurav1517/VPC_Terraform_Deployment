@@ -25,6 +25,9 @@ Creating VPC using Terraform & Deploy via GitHub Actions.
 <a href="https://github.com">
   <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" width="100">
 </a>
+<a href="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d86964333d11e0a1f1da9e_github_actions.png">
+  <img src="https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/66d86964333d11e0a1f1da9e_github_actions.png" alt="GitHub Actions" width="100">
+</a>
 <a href="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg">
   <img src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" alt="EC2 Icon" width="100">
 </a>
